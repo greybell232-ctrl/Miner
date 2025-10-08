@@ -4,6 +4,8 @@
   "content": "1) Fixed several issues\n",
   "linkText": "viewchangelog",
   "linkUrl": "https://github.com/greybell232-ctrl/Miner/blob/main/README.md",
-  "downloadUrl": "https://github.com/greybell232-ctrl/Miner/releases/latest/download/Release.zip",
+  "WindownloadUrl": "https://github.com/greybell232-ctrl/Miner/releases/latest/download/Win_Release.zip",
+  "MacdownloadUrl": "https://github.com/greybell232-ctrl/Miner/releases/latest/download/Mac_arm_Release.zip",
+  "Mac86downloadUrl": "https://github.com/greybell232-ctrl/Miner/releases/latest/download/Mac_x86_Release.zip",
   "mandatory": false
 }
