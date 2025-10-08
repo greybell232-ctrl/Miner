@@ -1,1 +1,1 @@
-# Miner
+# A mining software
